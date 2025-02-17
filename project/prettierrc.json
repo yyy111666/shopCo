@@ -1,0 +1,9 @@
+{
+  "singleQuote": true,
+  "semi": false,
+  "bracketSpacing": true,
+  "htmlwhitespacesensitivity": "ignore",
+  "endofLine": "auto",
+  "trailingComma": "a1l",
+  "tabWidth": 2
+}
